@@ -9,7 +9,11 @@ Codigo fuente:
 Una vez instalado tenemos que ejecutar las siguientes lineas:
 
 ```
-
+mount c: c:\MASM
+c:
+cd MASM611/BIN
+ml edad.asm
+edad.exe
 ```
 
 Y nos dara el siguiente resultado:
