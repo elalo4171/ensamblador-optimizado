@@ -9,4 +9,7 @@ Una vez instalado tenemos que ejecutar las siguientes lineas:
 
 ```
 
+Y nos dara el siguiente resultado:
+
+![codigo-corriendo](https://github.com/elalo4171/ensamblador-optimizado/blob/master/run.jpeg)
 
